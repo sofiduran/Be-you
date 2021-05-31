@@ -1,0 +1,48 @@
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, nav {
+    text-align: center;
+    color: #9C6368;
+    font-family: "Playfair Display";
+    letter-spacing: 3px;
+}
+h4 {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Playfair Display";
+}
+header,nav {
+    text-align: center; 
+    background-color: #FEF6F2       
+}
+p {
+    text-align: center;
+    color: #361215;
+}
+a {
+    color: #AF968C;
+    font-family: "Playfair Display";
+    margin: 11px;
+    letter-spacing: 3px;
+    text-decoration: none;
+}
+.fa {
+  padding: 6px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+/* Facebook */
+.fa-facebook, .fa-instagram, .fa-pinterest {
+  color: #AF968C;
+}
+
+footer {
+    text-align: center;
+}
+
+
+
+
